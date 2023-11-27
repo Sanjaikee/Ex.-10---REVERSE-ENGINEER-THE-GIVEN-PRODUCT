@@ -36,8 +36,8 @@
 ### Output:
 ![image](https://github.com/gpavana/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/118787343/b77712b5-56a5-4155-9170-b7bd2fb74882)
 
-### Name: PAVANA.G
-### Register Number: 212222230105
+### Name: SANJAI S
+### Register Number: 23003393
 
 ## RESULT:
 Thus the given product is reverse engineered and prototyped using 3D Printer.
