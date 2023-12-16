@@ -31,15 +31,17 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
-![image](https://github.com/Karthi051/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/148327224/e2bfad71-252f-419d-ae74-de5d815999ea)
+![WhatsApp Image 2023-12-16 at 14 12 07_51aaa496](https://github.com/Sanjaikee/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/150231888/d09782e8-ee9d-4b6b-8968-88aea8280dc1)
+
 
 
 ### Output:
-![image](https://github.com/Karthi051/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/148327224/5fb987d5-8b92-4053-99d3-4ed8078c2212)
+![WhatsApp Image 2023-12-16 at 14 13 10_ee8bc80e](https://github.com/Sanjaikee/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/150231888/25d0d60a-f282-4468-bb60-cbc4ce9a73fa)
 
 
 
-### Name:karthi sanjai s
+
+### Name: sanjai s
 ### Register Number:23003393
 
 ## RESULT:
